@@ -1,0 +1,81 @@
+.hobbies-clean {
+  color: #313437;
+  background-color: #def;
+}
+
+#hobbies {
+  background: linear-gradient(135deg, #c5fafa, #b5d9fb);
+  background-color: #b1f7f7;
+}
+
+ul#lt-skills li {
+  /*margin-block-start: 1em;*/
+  /*margin-block-end: 1em;*/
+  /*margin-inline-start: 0px;*/
+  /*margin-inline-end: 0px;*/
+  /*padding-inline-start: 40px;*/
+  /*list-style: none;*/
+  /*list-style-position: initial;*/
+  /*list-style-image: initial;*/
+  /*list-style-type: none;*/
+  display: inline-block;
+  border-style: none;
+  font-size: 1em;
+  margin-right: 3px;
+  padding: .3rem;
+  border-radius: 2px;
+  color: #111111;
+  background-color: #a7f1f1;
+  margin-bottom: .2em;
+  font-weight: 700;
+}
+
+.btn-primary {
+  margin-right: 3px;
+}
+
+.btn-success {
+  margin-right: 3px;
+}
+
+.btn-info {
+  margin-right: 3px;
+}
+
+button {
+  margin-right: 3px;
+  margin-bottom: 3px;
+  color: white;
+}
+
+.btn-framework {
+  background-color: rgb(129,134,246);
+  color: white;
+}
+
+.btn-framework:hover {
+  color: white;
+  background-color: rgb(98,102,186);
+}
+
+.hightlight-phone, h3 {
+  font-weight: bold;
+}
+
+.work-display:hover {
+  /*background-color: rgb(183,207,253);*/
+}
+
+.btn.btn-light.btn-lg.action-button:hover {
+  background-color: rgb(0,41,255);
+}
+
+.accordion > .card > .card-header {
+  background-color: inherit;
+  border: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
